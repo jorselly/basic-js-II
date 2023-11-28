@@ -98,3 +98,16 @@ const names = ['Rocío', 'Lola', 'Antía', 'Laura', 'Noelia']
 //Ejercicio 13: Realiza el mismo ejercicio anterior pero con un bucle do while.
 
 //Escribe tu código aquí
+
+
+//Ejercicio 14: Saludo Personalizado
+//Crea una función llamada saludar que tome un parámetro llamado nombre y devuelva un saludo personalizado. Luego, llama a la función con diferentes nombres y muestra el resultado en la consola.
+
+//Escribe tu código aquí
+
+
+//Ejercicio 15: Calcular el Área de un Rectángulo
+//Crea una función llamada calcularAreaRectangulo que tome dos parámetros (ancho y alto) y devuelva el área del rectángulo. Luego, llama a la función con diferentes valores de ancho y alto y muestra el resultado en la consola.
+
+//Escribe tu código aquí
+
